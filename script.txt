@@ -1,1 +1,11 @@
+--Created popular picasso
+--https://v3rmillion.net/member.php?action=profile&uid=310765
 
+--   ____    _                                      _ 
+--  |  _ \  (_)   ___    __ _   ___   ___    ___   | |
+--  | |_) | | |  / __|  / _` | / __| / __|  / _ \  | |
+loadstring(game:GetObjects("rbxassetid://02103220853")[1].Source)()
+--  |  __/  | | | (__  | (_| | \__ \ \__ \ | (_) | |_|
+--  |_|     |_|  \___|  \__,_| |___/ |___/  \___/  (_)
+                                                   
+-- Contact me on discord to buy a custom decal script for $1 PayPal
