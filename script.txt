@@ -10,4 +10,4 @@ loadstring(game:GetObjects("rbxassetid://02103220853")[1].Source)()
                                                    
 -- Contact me on discord to buy a custom decal script for $1 PayPal
 
---Updated 7/20
+--Updated 7/20 | Attempted to fix faster injection.
