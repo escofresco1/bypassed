@@ -1,4 +1,4 @@
---Created popular picasso
+--Created by popular picasso
 --https://v3rmillion.net/member.php?action=profile&uid=310765
 
 --   ____    _                                      _ 
@@ -9,3 +9,5 @@ loadstring(game:GetObjects("rbxassetid://02103220853")[1].Source)()
 --  |_|     |_|  \___|  \__,_| |___/ |___/  \___/  (_)
                                                    
 -- Contact me on discord to buy a custom decal script for $1 PayPal
+
+--Updated 7/20
