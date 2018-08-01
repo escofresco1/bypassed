@@ -1,0 +1,27 @@
+;Written in AHK!
+;Credits to tracy xoxo for creating this
+;don't sell me plz
+
+Gui, Font, S20 CDefault, Comic Sans MS
+Gui, Add, Text, x42 y39 w300 h40 , Sleeping While Driving
+Gui, Font, S11 CDefault, Comic Sans MS
+Gui, Add, Text, x92 y79 w180 h20 , created by @ tracy xoxo
+Gui, Add, Button, x82 y149 w200 h90 gsub1, Sleep Mode
+Gui, Add, Text, x132 y269 w120 h20 , Press CNTRL+Q to stop
+Gui, Show, w373 h333, Sleeping while driving | VS Bot
+return
+
+sub1:
+loop, 10000000
+{
+Send {w down}
+sleep 150
+Send {d down}
+sleep 50
+}
+
+^q::Reload
+return
+
+GuiClose:
+ExitApp
