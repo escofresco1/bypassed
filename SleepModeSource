@@ -1,5 +1,6 @@
-;removed the gui because skids don't know how to edit it.
-;-------------------------------
+;removed the gui because people don't know how to edit it.
+;you can stil enjoy the nice simple source code for the driving and turning!
+
 loop, 10000000
 {
 Send {w down}
